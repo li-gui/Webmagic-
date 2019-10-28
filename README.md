@@ -32,6 +32,3 @@ Page是WebMagic抽取过程的核心对象，它提供一些方法可供抽取�
 
 （3）ResultItems
 ResultItems相当于一个Map，它保存PageProcessor处理的结果，供Pipeline使用。它的API与Map很类似，值得注意的是它有一个字段skip，若设置为true，则不应被Pipeline处理。
-————————————————
-版权声明：本文为CSDN博主「9.冄2.7.號」的原创文章，遵循 CC 4.0 BY-SA 版权协议，转载请附上原文出处链接及本声明。
-原文链接：https://blog.csdn.net/weixin_44950987/article/details/100792939
